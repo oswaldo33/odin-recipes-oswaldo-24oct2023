@@ -41,19 +41,13 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-## Authors
+## Author
 
-👤 **Arístides José Molina Pérez**
+👤 **Oswaldo Jose Escalona Correa**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@oswaldo33](https://github.com/oswaldo33)
+- Twitter: [@OswaldoEscalon3](https://twitter.com/OswaldoEscalon3)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/oswaldo-escalona-a0ba72245)
 
 ## 🤝 Contributing
 
