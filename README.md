@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://oswaldo33.github.io/odin-recipes-oswaldo-24oct2023/)
 
 
 ## Getting Started
